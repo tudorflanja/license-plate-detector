@@ -65,7 +65,7 @@ The application follows a clear image-processing pipeline:
 |--------------------------------|-------------|
 | **common.cpp**                 | Utility functions (file dialogs, image resizing) |
 | **common.h**                   | Header definitions for utility functions |
-| **license_plate_detector.cpp** | Main application logic (preprocessing, detection, OCR, UI) |
+| **main.cpp** | Main application logic (preprocessing, detection, OCR, UI) |
 | **stdafx.cpp**                 | Precompiled header source (Visual Studio) |
 | **stdafx.h**                   | Precompiled header include file |
 
