@@ -143,4 +143,4 @@ Potential improvements:
 
 ---
 
-This project was developed in collaboration with Boamba Ovidiu, as part of our studies at the Technical University of Cluj-Napoca (UTCN) 🎓.
+This project was created in collaboration with Boamba Ovidiu for the Image Processing course at the Technical University of Cluj-Napoca (UTCN) 🎓.
